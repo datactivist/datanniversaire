@@ -21,7 +21,5 @@ Pour répondre à ces questions, nous avons invité **quatre grands témoins** :
 Le débat se terminera par le lancement par Datactivist de #TeamOpenData, **la communauté des producteurs et des réutilisateurs de données ouvertes qui veulent que l’ouverture des données devienne la norme plutôt que l’exception**. Cette communauté servira à contribuer à la création prochaine d’un framework open source fournissant les méthodes et les enseignements pour généraliser l’ouverture des données. Un pot suivra à Superpublic qui, lui même se prolongera au bien nommé 49.3 à côté. 
 
 ## S'inscrire 
-														<!-- Changez les valeurs de largeur et de hauteur pour mieux vous convenir -->
-														<iframe id=iframe src=https://datactivist.tellform.com/#!/forms/5a0da4824911f0b339258781 style=width:100%;height:500px></iframe>
-														<div style="font-family: Sans-Serif;font-size: 12px;color: #999;opacity: 0.5; padding-top: 5px">Alimenté par <a href=https://www.tellform.com style="color: #999" target=_blank>TellForm</a></div>
+<iframe id=iframe src=https://datactivist.tellform.com/#!/forms/5a0da4824911f0b339258781 style=width:100%;height:500px></iframe>
 													
