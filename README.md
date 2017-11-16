@@ -1,5 +1,3 @@
-# Datanniversaire : l'open data a 10 ans, comment en faire la norme plutôt que l'exception ?
-
 Le 7 décembre 2017, cela fera **10 ans que les principes de l’open data ont été formalisés**. 
 C'est lors d’une rencontre dans les locaux de l’éditeur O’Reilly à Sebastopol en Californie que 30 militants, entrepreneurs et chercheurs ont défini ensemble les huit grands principes de l’ouverture des données. Pour les résumer, ces principes réclament **la publication de l’ensemble des données publiques sous leur forme brute dès leur production** et telles qu’elles sont utilisées dans les administrations. 
 
