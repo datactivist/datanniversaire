@@ -1,4 +1,5 @@
-![](https://donneesouvertes.files.wordpress.com/2012/04/sebastopol-davidorban-groupe.jpg
+![](https://donneesouvertes.files.wordpress.com/2012/04/sebastopol-davidorban-groupe.jpg)
+
 Le 7 décembre 2017, cela fera **10 ans que les principes de l’open data ont été formalisés**. 
 C'est lors d’une [rencontre dans les locaux de l’éditeur O’Reilly à Sebastopol](https://donneesouvertes.info/2012/04/30/comment-lopen-data-est-devenu-un-objet-politique/) en Californie que 30 militants, entrepreneurs et chercheurs ont défini ensemble les huit grands principes de l’ouverture des données. On trouve dans l'assemblée des acteurs du numériques bien connus comme Tim O'Reilly, Aaron Swartz et Lawrence Lessig. Pour résumer, [les 8 principes](https://opengovdata.org/) qui y ont découlé de cette rencontre réclament **la publication de l’ensemble des données publiques sous leur forme brute dès leur production** et telles qu’elles sont utilisées dans les administrations. 
 
