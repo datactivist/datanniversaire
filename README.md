@@ -18,7 +18,7 @@ La France est **le premier pays à avoir inscrit le principe d’open data par d
 Pour répondre à ces questions, nous avons invité **quatre grands témoins** : 
 - **Valérie Peugeot**, prospectiviste à Orange Labs, qui a réalisé dès 2009 des travaux de recherche sur l’open data
 - **Henri Verdier**, Directeur interministériel du numérique et administrateur général des données, auteur de l’Age de la Multitude, qui a dirigé de 2012 à 2015 la mission Etalab
-- **Jean Marc Lazard**, fondateur d’Open Data Soft, entreprise française devenue en quelques années leader mondial des portails d’open data
+- **Jean Marc Lazard**, fondateur d’OpenDataSoft, entreprise française devenue en quelques années leader mondial des portails d’open data
 - **Axelle Lemaire**, ancienne secrétaire d’État chargée du numérique, qui a porté la loi pour une République numérique qui a établi l’obligation d’ouverture des données par défaut en France.
 
 ## Lancement de #teamopendata
